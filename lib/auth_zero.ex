@@ -1,0 +1,2 @@
+defmodule AuthZero do
+end
