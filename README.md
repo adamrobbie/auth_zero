@@ -1,5 +1,7 @@
 # AuthZero
 
+[![Build Status](https://travis-ci.org/adamrobbie/auth_zero.svg?branch=master)](https://travis-ci.org/adamrobbie/auth_zero)
+
 **TODO: Add description**
 
 ## Installation
@@ -21,4 +23,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:auth_zero]]
     end
     ```
-
